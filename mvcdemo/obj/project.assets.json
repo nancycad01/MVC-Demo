@@ -4159,11 +4159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\DOTNET\\mvcdemo\\mvcdemo.csproj",
+      "projectUniqueName": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\MVC-Demo\\mvcdemo\\mvcdemo.csproj",
       "projectName": "mvcdemo",
-      "projectPath": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\DOTNET\\mvcdemo\\mvcdemo.csproj",
+      "projectPath": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\MVC-Demo\\mvcdemo\\mvcdemo.csproj",
       "packagesPath": "C:\\Users\\Nancycad01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\DOTNET\\mvcdemo\\obj\\",
+      "outputPath": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\MVC-Demo\\mvcdemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nancycad01\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lm08dw4cUxlHXkXUmVEAfX3DuJhslNqlD4F1JQaxd1gzun1h5SIhqPoj33GsMtU0DD4R1kCFdQHndA5hmya4yg==",
+  "dgSpecHash": "aILhT6LYmzFNSPMhlsNZF4oE13w0OIngYmcPoFagW0+JAEK/pVS/6eyjvNE0YyCSw8M2YgrpSsiurICWo0J10g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\DOTNET\\mvcdemo\\mvcdemo.csproj",
+  "projectFilePath": "C:\\Users\\Nancycad01\\Desktop\\CADBATCH01\\Project\\MVC-Demo\\mvcdemo\\mvcdemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nancycad01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nancycad01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
